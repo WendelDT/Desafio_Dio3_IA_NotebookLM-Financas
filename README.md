@@ -1,5 +1,7 @@
 # Miniguia de Estudos: Fundamentos de Educação Financeira com NotebookLM
 
+* [Acessar meu NotebookLM](https://notebooklm.google.com/notebook/e0dd56f4-8614-44ee-82eb-db52fbb9d651)
+
 Este repositório contém o projeto desenvolvido para o desafio da plataforma **DIO (Digital Innovation One)**, focado no uso do **Google NotebookLM** como ferramenta de aprendizagem ativa e curadoria de conhecimento.
 
 O objetivo aqui é transformar informações brutas de fontes financeiras em um guia de estudos estruturado, utilizando Engenharia de Prompts para extrair o melhor da Inteligência Artificial.
