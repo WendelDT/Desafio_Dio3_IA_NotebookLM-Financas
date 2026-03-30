@@ -62,7 +62,7 @@ Abaixo, registro o processo de refinamento das perguntas para obter respostas ma
 
 ##  Links Úteis
 * [Acessar meu NotebookLM](https://notebooklm.google.com/notebook/e0dd56f4-8614-44ee-82eb-db52fbb9d651)
-* [Perfil na DIO](https://www.dio.me/)
+* [Perfil na DIO]([https://www.dio.me/](https://web.dio.me/users/wendel_ripper_diego?tab=achievements))
 
 ---
 Desenvolvido por Wendel Diego Taveri, como parte do desafio de IA da DIO.
